@@ -1,5 +1,7 @@
 # Density
 
+[![Join the chat at https://gitter.im/axic/density](https://badges.gitter.im/axic/density.svg)](https://gitter.im/axic/density?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Density is a library or collection of useful modifiers and methods for [Solidity](https://ethereum.github.io/solidity/), one of the high-level languages for the Ethereum virtual machine (EVM).
 
 ## Usage
